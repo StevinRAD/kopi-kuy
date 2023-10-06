@@ -1,0 +1,34 @@
+{
+    "Distro": [
+        {
+            "foto": "images/logo/baju1.jpg",
+            "nama": "Skeleton",
+            "size": "Harga",
+            "harga": "75.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/logo/baju2.jpg",
+            "nama": "Janpa",
+            "size": "Harga",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        }
+    ],
+    "Toko": [
+        {
+            "foto": "images/logo/baju3.jpg",
+            "nama": "Silode",
+            "size": "Harga",
+            "harga": "70.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/logo/baju4.jpg",
+            "nama": "Distress",
+            "size": "Harga",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
